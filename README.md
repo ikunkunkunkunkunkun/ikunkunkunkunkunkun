@@ -38,23 +38,22 @@
 | 🧠 [quotalens-codex](https://github.com/ikunkunkunkunkunkun/quotalens-codex) | TypeScript 项目实验 |
 | 🎬 [video-download-manager](https://github.com/ikunkunkunkunkunkun/video-download-manager) | 视频下载工具探索 |
 
-## <samp>02 / Activity</samp>
+## <samp>02 / GitHub 数据总览</samp>
+
+<div align="center">
+  <sub>仓库、常用语言、贡献日历、提交习惯和社区数据，会由 GitHub 自动更新。</sub>
+</div>
+
+<br />
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikunkunkunkunkunkun&theme=tokyonight" width="100%" alt="GitHub contribution overview" />
+  <img src="./metrics.svg" width="100%" alt="ikun 的 GitHub 数据总览" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-phi-rouge.vercel.app/api?username=ikunkunkunkunkunkun&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" width="49%" alt="GitHub stats" />
-  <img src="https://github-readme-stats-phi-rouge.vercel.app/api/top-langs/?username=ikunkunkunkunkunkun&layout=compact&hide_border=true&theme=tokyonight" width="49%" alt="Top languages" />
-</p>
+## <samp>03 / Activity</samp>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikunkunkunkunkunkun&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ikunkunkunkunkunkun/ikunkunkunkunkunkun/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
+  <img src="https://raw.githubusercontent.com/ikunkunkunkunkunkun/ikunkunkunkunkunkun/gh-pages/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation" />
 </p>
 
 <div align="center">
