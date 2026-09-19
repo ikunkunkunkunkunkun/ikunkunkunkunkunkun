@@ -35,7 +35,7 @@
 </div>
 
 <p align="center">
-  <img src="./metrics.svg" width="100%" alt="ikun 的 GitHub 数据总览" />
+  <img src="./metrics.svg" width="70%" alt="ikun 的 GitHub 数据总览" />
 </p>
 
 ## <samp>03 / Activity</samp>
