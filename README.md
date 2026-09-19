@@ -8,19 +8,15 @@
       </blockquote>
     </td>
     <td width="44%" align="center" valign="middle">
-      <img src="./assets/profile-art.png" width="360" alt="ikun 的晚餐插画" />
+      <img src="./assets/profile-art.png" width="300" alt="ikun 的晚餐插画" />
     </td>
   </tr>
 </table>
 
-<hr />
-
 <div align="center">
-  <p><em>你好，我是 <strong>ikun</strong>。我喜欢把想法变成能运行的小东西。</em></p>
-  <p><sub>Web &nbsp;·&nbsp; Cloud &nbsp;·&nbsp; AI tools &nbsp;·&nbsp; open source</sub></p>
+  <em>你好，我是 <strong>ikun</strong>。我喜欢把想法变成能运行的小东西。</em><br />
+  <sub>Web &nbsp;·&nbsp; Cloud &nbsp;·&nbsp; AI tools &nbsp;·&nbsp; open source</sub>
 </div>
-
-<br />
 
 ## <samp>01 / Projects</samp>
 
@@ -38,10 +34,8 @@
   <sub>仓库、常用语言、贡献日历、提交习惯和社区数据，会由 GitHub 自动更新。</sub>
 </div>
 
-<br />
-
 <p align="center">
-  <img src="./metrics.svg" width="82%" alt="ikun 的 GitHub 数据总览" />
+  <img src="./metrics.svg" width="100%" alt="ikun 的 GitHub 数据总览" />
 </p>
 
 ## <samp>03 / Activity</samp>
