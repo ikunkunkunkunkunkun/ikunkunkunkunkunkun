@@ -21,9 +21,16 @@
 
 <p><em>希望每次打开编辑器，都能比昨天多解决一个问题。🚀</em></p>
 
-<p align="center">
-  <img src="./metrics.svg" width="850" alt="ikun 的 GitHub 数据总览" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./metrics-profile.svg" width="100%" alt="ikun 的个人资料与活动统计" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="./metrics-insights.svg" width="100%" alt="ikun 的语言与贡献日历" />
+    </td>
+  </tr>
+</table>
 
 <p><strong>我做过的小项目</strong> · <a href="https://github.com/ikunkunkunkunkunkun/Telegraph-Image">Telegraph-Image</a> · <a href="https://github.com/ikunkunkunkunkunkun/tuchaung">tuchaung</a> · <a href="https://github.com/ikunkunkunkunkunkun/quotalens-codex">quotalens-codex</a></p>
 
