@@ -1,10 +1,10 @@
 # Project Status
 
 - Current goal: Maintain a polished, Chinese-first GitHub profile README for `ikunkunkunkunkunkun`, with a reference-inspired dark layout and automatically refreshed activity data.
-- Completed work: Replaced the profile README with a custom introduction, project table, the user's supplied dinner illustration, a large generated metrics section, and a contribution snake section. Added `.github/workflows/metrics.yml` to render repository, language, contribution, habit, and community data into `metrics.svg`.
+- Completed work: Replaced the profile README with a custom introduction, project table, the user's supplied dinner illustration, a large generated metrics section, and a contribution snake section. Added `.github/workflows/metrics.yml` to render repository, language, contribution calendar, and community data into `metrics.svg`.
 - Key technical decisions: Use the supplied illustration as the primary visual; keep project links tied to repositories that exist on the account; use GitHub-native `<samp>`, `<em>`, and blockquote typography cues instead of relying on a custom web font that GitHub may ignore; keep the surrounding labels in Chinese while using the official `lowlighter/metrics` action for live data; publish the snake SVG to `gh-pages`.
 - Core file changes: `README.md`, `assets/profile-art.png`, `.github/workflows/snake.yml`, `.github/workflows/metrics.yml`.
-- Verification: Pending after the metrics workflow is pushed and run. Prior `git diff --check` passed; the snake workflow run `35425377372` completed successfully and generated its contribution SVG.
+- Verification: The first full metrics run was canceled after 5m22s while rendering, with no generated file. The configuration was reduced to the official core modules and needs a rerun. Prior `git diff --check` passed; the snake workflow run `35425377372` completed successfully and generated its contribution SVG.
 - Known issues: The metrics action uses the repository's built-in `GITHUB_TOKEN`, so public profile data should work; private contribution details may require adding a `METRICS_TOKEN` secret later. GitHub may cache the profile page briefly after a push.
 - Failed or abandoned approaches: The first snake workflow used the wrong `outputs` input and lacked `contents: write`; both were corrected and the workflow rerun successfully.
-- Next steps: Commit and push the metrics workflow and README, manually run `metrics.yml`, verify `metrics.svg`, then open the profile page and refresh if GitHub still shows cached README content.
+- Next steps: Commit and push the reduced metrics workflow, manually run `metrics.yml`, verify `metrics.svg`, then open the profile page and refresh if GitHub still shows cached README content.
