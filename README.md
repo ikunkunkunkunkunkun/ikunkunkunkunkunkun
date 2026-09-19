@@ -29,6 +29,8 @@
   </picture>
 </p>
 
+<p align="center"><a href="https://ikunkunkunkunkunkun.github.io/contributions/">按年份查看贡献贪吃蛇（2023–2026） →</a></p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
