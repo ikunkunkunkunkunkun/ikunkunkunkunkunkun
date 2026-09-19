@@ -32,4 +32,3 @@ jobs:
           plugin_languages_limit: 5
           plugin_languages_details: bytes-size, percentage
           plugins_errors_fatal: no
-
