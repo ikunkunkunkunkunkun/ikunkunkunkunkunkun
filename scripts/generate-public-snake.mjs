@@ -26,7 +26,9 @@ for (let i = 0; i < 365; i++) {
   cells.push(`<rect x="${col * step}" y="${day * step}" width="${size}" height="${size}" rx="3" fill="${color(count)}"><title>${dateText} · ${count} contributions</title></rect>`);
 }
 const route = []; for (let y = 0; y < 7; y++) { const xs = [...Array(cols).keys()]; if (y % 2) xs.reverse(); for (const x of xs) route.push({ x, y }); }
-const head = Math.floor(route.length * .18); const snake = Array.from({ length: 6 }, (_, i) => { const p = route[(head - i + route.length) % route.length]; return `<rect x="${p.x * step + 1}" y="${p.y * step + 1}" width="${size - 2}" height="${size - 2}" rx="3" fill="${i ? '#a400a6' : '#cc1bc9'}"/>`; }).join('');
+const head = Math.floor(route.length * .18);
+const coords = (offset, axis) => route.map((_, i) => { const p = route[(i - offset + route.length) % route.length]; return axis === 'x' ? p.x * step + 1 : p.y * step + 1; }).join(';');
+const snake = Array.from({ length: 6 }, (_, i) => { const p = route[(head - i + route.length) % route.length]; return `<rect x="${p.x * step + 1}" y="${p.y * step + 1}" width="${size - 2}" height="${size - 2}" rx="3" fill="${i ? '#a400a6' : '#cc1bc9'}"><animate attributeName="x" dur="32s" repeatCount="indefinite" values="${coords(i, 'x')}"/><animate attributeName="y" dur="32s" repeatCount="indefinite" values="${coords(i, 'y')}"/></rect>`; }).join('');
 const svg = `<svg xmlns="http://www.w3.org/2000/svg" width="${cols * step}" height="126" viewBox="0 0 ${cols * step} 126"><rect width="100%" height="100%" fill="#0d1117"/>${cells.join('')}<g aria-label="Contribution snake">${snake}</g></svg>\n`;
 await mkdir('dist', { recursive: true });
 await writeFile('dist/github-contribution-grid-snake-dark.svg', svg);
