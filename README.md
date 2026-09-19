@@ -1,25 +1,34 @@
 <div align="center">
-  <img src="./assets/profile-art.png" width="360" alt="ikun 的晚餐插画" />
-
-  <h1>你好，我是 ikun ✨</h1>
-
-  <p>
-    <em>在代码、想法和一点点可爱之间，持续折腾。</em><br />
-    <em>Building small tools, learning in public, and leaving useful things behind.</em>
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/Focus-Web%20%26%20Cloud-c084fc?style=for-the-badge&labelColor=241b3b" alt="Focus Web and Cloud" />
-    <img src="https://img.shields.io/badge/Learning-AI%20Tools-f9a8d4?style=for-the-badge&labelColor=3b203d" alt="Learning AI Tools" />
-    <img src="https://img.shields.io/badge/Mood-Soft%20%26%20Curious-93c5fd?style=for-the-badge&labelColor=1d2945" alt="Mood Soft and Curious" />
-  </p>
+  <samp>ikunkunkunkunkunkun / README.md</samp>
 </div>
 
 <br />
 
-> **“把复杂的东西做得简单一点，把喜欢的东西做得认真一点。”**
+<table>
+  <tr>
+    <td width="56%" valign="middle">
+      <blockquote>
+        <p><em>“把复杂的东西做得简单一点，把喜欢的东西做得认真一点。”</em></p>
+        <p><em>Small tools, quiet experiments, and a little curiosity every day.</em></p>
+        <p align="right"><sub>ikun</sub></p>
+      </blockquote>
+    </td>
+    <td width="44%" align="center" valign="middle">
+      <img src="./assets/profile-art.png" width="360" alt="ikun 的晚餐插画" />
+    </td>
+  </tr>
+</table>
 
-## 🌙 最近在做什么
+<hr />
+
+<div align="center">
+  <p><em>你好，我是 <strong>ikun</strong>。我喜欢把想法变成能运行的小东西。</em></p>
+  <p><sub>Web &nbsp;·&nbsp; Cloud &nbsp;·&nbsp; AI tools &nbsp;·&nbsp; open source</sub></p>
+</div>
+
+<br />
+
+## <samp>01 / Projects</samp>
 
 | 项目 | 简介 |
 |:--|:--|
@@ -29,7 +38,7 @@
 | 🧠 [quotalens-codex](https://github.com/ikunkunkunkunkunkun/quotalens-codex) | TypeScript 项目实验 |
 | 🎬 [video-download-manager](https://github.com/ikunkunkunkunkunkun/video-download-manager) | 视频下载工具探索 |
 
-## ✦ GitHub 夜空
+## <samp>02 / Activity</samp>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikunkunkunkunkunkun&theme=tokyonight" width="100%" alt="GitHub contribution overview" />
