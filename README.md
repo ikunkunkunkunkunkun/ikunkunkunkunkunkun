@@ -1,9 +1,3 @@
-<div align="center">
-  <samp>ikunkunkunkunkunkun / README.md</samp>
-</div>
-
-<br />
-
 <table>
   <tr>
     <td width="56%" valign="middle">
@@ -47,7 +41,7 @@
 <br />
 
 <p align="center">
-  <img src="./metrics.svg" width="100%" alt="ikun 的 GitHub 数据总览" />
+  <img src="./metrics.svg" width="82%" alt="ikun 的 GitHub 数据总览" />
 </p>
 
 ## <samp>03 / Activity</samp>
