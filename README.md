@@ -38,12 +38,6 @@
   <img src="./metrics.svg" width="70%" alt="ikun 的 GitHub 数据总览" />
 </p>
 
-## <samp>03 / Activity</samp>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ikunkunkunkunkunkun/ikunkunkunkunkunkun/gh-pages/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake animation" />
-</p>
-
 <div align="center">
   <sub>🌌 熬夜写代码 · 白天继续生活 · 慢慢把想法变成东西</sub>
 </div>
