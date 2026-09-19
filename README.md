@@ -30,6 +30,11 @@
         <tr><td>🧠 <a href="https://github.com/ikunkunkunkunkunkun/quotalens-codex">quotalens-codex</a></td><td>TypeScript 项目实验</td></tr>
         <tr><td>🎬 <a href="https://github.com/ikunkunkunkunkunkun/video-download-manager">video-download-manager</a></td><td>视频下载工具探索</td></tr>
       </table>
+      <br />
+      <div align="center">
+        <sub>我的活动记录</sub>
+        <img src="./activity.svg" width="100%" alt="ikun 的 GitHub 活动记录" />
+      </div>
     </td>
     <td width="62%" valign="top">
       <h2><samp>02 / GitHub 数据总览</samp></h2>
