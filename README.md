@@ -32,8 +32,13 @@
       </table>
       <br />
       <div align="center">
-        <sub>我的活动记录</sub>
-        <img src="./activity.svg" width="100%" alt="ikun 的 GitHub 活动记录" />
+        <sub>NOW / 现在在做</sub>
+      </div>
+      <br />
+      <div>
+        🛠️ 打磨实用的 Web 小工具<br />
+        🤖 学习 AI 与自动化工作流<br />
+        📦 整理项目，让想法慢慢成形
       </div>
     </td>
     <td width="62%" valign="top">
