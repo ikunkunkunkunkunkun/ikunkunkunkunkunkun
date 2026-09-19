@@ -21,6 +21,14 @@
 
 <p><em>希望每次打开编辑器，都能比昨天多解决一个问题。🚀</em></p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikunkunkunkunkunkun/ikunkunkunkunkunkun/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikunkunkunkunkunkun/ikunkunkunkunkunkun/gh-pages/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/ikunkunkunkunkun/ikunkunkunkunkunkun/gh-pages/github-contribution-grid-snake.svg" width="100%" alt="ikun 的 GitHub 贡献贪吃蛇动画" />
+  </picture>
+</p>
+
 <table>
   <tr>
     <td width="50%" valign="top">
