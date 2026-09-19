@@ -12,12 +12,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: actions/setup-node@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          node-version: '22'
+      - name: Generate snake from the same rolling-year contribution data
+        env:
+          CONTRIBUTIONS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: node scripts/generate-public-snake.mjs
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: gh-pages
