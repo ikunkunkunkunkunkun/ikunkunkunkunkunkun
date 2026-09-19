@@ -1,36 +1,30 @@
-<div align="center">
-  <em>你好，我是 <strong>ikun</strong>。把想法变成能运行的小东西。</em> 🚀<br />
-  <sub>Web &nbsp;·&nbsp; Cloud &nbsp;·&nbsp; AI tools &nbsp;·&nbsp; open source</sub>
-</div>
+<table>
+  <tr>
+    <td width="60%" valign="middle">
+      <blockquote>
+        <p><em>“把复杂的东西做得简单一点，把喜欢的东西做得认真一点。”</em></p>
+        <p><em>每天学一点，也做一点。</em></p>
+        <p align="right"><sub>—— ikun</sub></p>
+      </blockquote>
+    </td>
+    <td width="40%" align="right" valign="middle">
+      <img src="./assets/profile-art.png" width="320" alt="ikun 的插画" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<p><em>⚡ 你好，我是 ikun，喜欢把想法做成真正能用的小工具。</em></p>
+
+<p>我正在学习 Web、云服务和 AI 自动化，也在慢慢整理自己的开源项目。</p>
+
+<p><em>希望每次打开编辑器，都能比昨天多解决一个问题。🚀</em></p>
 
 <p align="center">
-  <img src="./assets/profile-art.png" width="180" alt="ikun 的晚餐插画" />
+  <img src="./metrics.svg" width="850" alt="ikun 的 GitHub 数据总览" />
 </p>
 
-<p align="center">
-  <img src="./metrics.svg" width="100%" alt="ikun 的 GitHub 数据总览" />
-</p>
+<p><strong>我做过的小项目</strong> · <a href="https://github.com/ikunkunkunkunkunkun/Telegraph-Image">Telegraph-Image</a> · <a href="https://github.com/ikunkunkunkunkunkun/tuchaung">tuchaung</a> · <a href="https://github.com/ikunkunkunkunkunkun/quotalens-codex">quotalens-codex</a></p>
 
-## <samp>01 / Projects</samp>
-
-| 项目 | 简介 |
-|:--|:--|
-| 🖼️ [Telegraph-Image](https://github.com/ikunkunkunkunkunkun/Telegraph-Image) | 轻量图片托管与分享 |
-| ⚡ [tuchaung](https://github.com/ikunkunkunkunkunkun/tuchaung) | 图片分享小工具 |
-| 🏠 [个人站点](https://github.com/ikunkunkunkunkunkun/ikunkunkunkunkunkun.github.io) | 我的网页角落 |
-| 🧠 [quotalens-codex](https://github.com/ikunkunkunkunkunkun/quotalens-codex) | TypeScript 项目实验 |
-| 🎬 [video-download-manager](https://github.com/ikunkunkunkunkunkun/video-download-manager) | 视频下载工具探索 |
-
-<div align="center">
-  <sub>🛠️ 打磨 Web 小工具 &nbsp;·&nbsp; 🤖 学习 AI 自动化 &nbsp;·&nbsp; 📦 慢慢整理开源项目</sub>
-</div>
-
-<br />
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ikunkunkunkunkunkun&style=flat-square&color=2dd4bf&label=Profile+views" alt="Profile views" />
-</p>
-
-<div align="center">
-  <sub>🌌 熬夜写代码 · 白天继续生活 · 慢慢把想法变成东西</sub>
-</div>
+<p><img src="https://komarev.com/ghpvc/?username=ikunkunkunkunkunkun&amp;style=flat-square&amp;color=2dd4bf&amp;label=Profile+views" alt="Profile views" /></p>
