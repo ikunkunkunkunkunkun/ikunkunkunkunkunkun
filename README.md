@@ -1,59 +1,53 @@
-<!-- ═══ ① 动态打字机横幅 ═══ -->
+<div align="center">
+  <img src="./assets/profile-art.png" width="360" alt="ikun 的晚餐插画" />
+
+  <h1>你好，我是 ikun ✨</h1>
+
+  <p>
+    <em>在代码、想法和一点点可爱之间，持续折腾。</em><br />
+    <em>Building small tools, learning in public, and leaving useful things behind.</em>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Focus-Web%20%26%20Cloud-c084fc?style=for-the-badge&labelColor=241b3b" alt="Focus Web and Cloud" />
+    <img src="https://img.shields.io/badge/Learning-AI%20Tools-f9a8d4?style=for-the-badge&labelColor=3b203d" alt="Learning AI Tools" />
+    <img src="https://img.shields.io/badge/Mood-Soft%20%26%20Curious-93c5fd?style=for-the-badge&labelColor=1d2945" alt="Mood Soft and Curious" />
+  </p>
+</div>
+
+<br />
+
+> **“把复杂的东西做得简单一点，把喜欢的东西做得认真一点。”**
+
+## 🌙 最近在做什么
+
+| 项目 | 简介 |
+|:--|:--|
+| 🖼️ [Telegraph-Image](https://github.com/ikunkunkunkunkunkun/Telegraph-Image) | 轻量图片托管与分享 |
+| ⚡ [tuchaung](https://github.com/ikunkunkunkunkunkun/tuchaung) | 图片分享小工具 |
+| 🏠 [个人站点](https://github.com/ikunkunkunkunkunkun/ikunkunkunkunkunkun.github.io) | 我的网页角落 |
+| 🧠 [quotalens-codex](https://github.com/ikunkunkunkunkunkun/quotalens-codex) | TypeScript 项目实验 |
+| 🎬 [video-download-manager](https://github.com/ikunkunkunkunkunkun/video-download-manager) | 视频下载工具探索 |
+
+## ✦ GitHub 夜空
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=620&lines=%E5%97%A8%2C%20%E6%88%91%E6%98%AF%20ikun%20%F0%9F%8E%AF;Focusing%20on%20Web%20%26%20Cloud;%E5%9B%BE%E5%BA%8A%20%C2%B7%20%E6%9C%BA%E5%99%A8%E4%BA%BA%20%C2%B7%20%E5%B7%A5%E5%85%B7%E7%88%B1%E5%A5%BD%E8%80%85" alt="Typing SVG" />
-</p>
-
-<!-- ═══ ② 综合数据大面板(贡献热力 + 语言占比) ═══ -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikunkunkunkunkunkun&theme=tokyonight" alt="Profile Details" width="100%" />
-</p>
-
-<!-- ═══ ③ 三张小卡一排:总览 | 仓库语言分布 | 提交语言 ═══ -->
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ikunkunkunkunkunkun&theme=tokyonight" alt="Stats" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ikunkunkunkunkunkun&theme=tokyonight" alt="Repos per Language" /></td>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ikunkunkunkunkunkun&theme=tokyonight" alt="Most Commit Language" /></td>
-  </tr>
-</table>
-
-<!-- ═══ ④ 统计卡 + 语言卡(phi-rouge 稳定实例) ═══ -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-phi-rouge.vercel.app/api?username=ikunkunkunkunkunkun&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-phi-rouge.vercel.app/api/top-langs/?username=ikunkunkunkunkunkun&layout=compact&hide_border=true&theme=tokyonight" alt="Top Langs" />
-    </td>
-  </tr>
-</table>
-
-<!-- ═══ ⑤ 活跃时段卡(UTC+8,国内时间) ═══ -->
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ikunkunkunkunkunkun&theme=tokyonight&utcOffset=8" alt="Productive Time" />
-</p>
-
-<!-- ═══ ⑥ 技能徽章 ═══ -->
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%92%BC&message=%E5%9B%BE%E5%BA%8A%E6%96%B9%E6%A1%88&color=4FC3F7&style=flat-square" />
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%A4%96&message=TelegramBot&color=38bdf8&style=flat-square" />
-  <img src="https://img.shields.io/static/v1?label=%E2%9C%A8&message=%E6%8F%90%E7%A4%BA%E8%AF%8D%E4%BC%98%E5%8C%96&color=818cf8&style=flat-square" />
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8F%A0&message=%E4%B8%AA%E4%BA%BA%E7%AB%99%E7%82%B9&color=6366f1&style=flat-square" />
-</p>
-
-<!-- ═══ ⑦ 项目展示 ═══ -->
-## 📦 我在折腾的
-
-| | | |
-|:--|:--|:--|
-| 🖼️ **Telegraph-Image**<br>Cloudflare Pages 图床 | ⚡ **tuchaung**<br>图片分享 | 🏠 **个人站点**<br>ikunkunkunkunkunkun.github.io |
-| 🤖 **TelegramBot**<br>机器人大全 (fork) | ✨ **prompt-optimizer**<br>提示词优化 (fork) | 🔗 更多见上方 Repositories |
-
-<!-- ═══ ⑧ 贡献活动图 ═══ -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikunkunkunkunkunkun&theme=github" alt="Activity Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ikunkunkunkunkunkun&theme=tokyonight" width="100%" alt="GitHub contribution overview" />
 </p>
 
 <p align="center">
-  <sub>🖤 熬夜写代码 · 白天
+  <img src="https://github-readme-stats-phi-rouge.vercel.app/api?username=ikunkunkunkunkunkun&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight" width="49%" alt="GitHub stats" />
+  <img src="https://github-readme-stats-phi-rouge.vercel.app/api/top-langs/?username=ikunkunkunkunkunkun&layout=compact&hide_border=true&theme=tokyonight" width="49%" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikunkunkunkunkunkun&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ikunkunkunkunkunkun/ikunkunkunkunkunkun/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation" />
+</p>
+
+<div align="center">
+  <sub>🌌 熬夜写代码 · 白天继续生活 · 慢慢把想法变成东西</sub>
+</div>
